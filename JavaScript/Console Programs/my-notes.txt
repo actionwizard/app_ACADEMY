@@ -1,0 +1,22 @@
+#POINT 1
+In this we used the command
+code test.txt 
+(what happened is that this txt file was automatically created and opened in VS code directly)
+if the file already exists then this command opened the file 
+
+#POINT 2
+Any extra instructions that you give to a command that begins with a dash like "-" is called a flag.
+
+#POINT 3
+A relative path specifies a location starting from the current location.
+(relative path me abhi jaha hai waha se aage ka path likhte)
+
+An absolute path specifies a location from the root of the file system.
+(absolute path me root directory se path likha jata hai)
+
+#POINT 4
+Renaming a file from the command line is moving the file from one name to another. 
+You use the mv command which means "move". 
+It takes two arguments: the file that you want to move, and where you want to move it.
+
+#POINT 5
